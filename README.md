@@ -1,7 +1,7 @@
 # overlays
 Creating printer overlays with free tools
 If you are constantly creating or modifing templates I recommed you purchase a commercial tool like TL Ashford (https://tlashford.com/), but if you only need a template or two you can create them using freely available tools.
-You need to download the latest APF driver from Ricoh https://dl.ricohsoftware.com/eid/download/OTI4MzY2MDE1NDY%3D/aa9a248e-101c-4aa6-b109-1cf7403f3b4f  https://dl.ricohsoftware.com/downloads/aa9a248e-101c-4aa6-b109-1cf7403f3b4f
+You need to download the latest APF driver from Ricoh https://dl.ricohsoftware.com/eid/download/OTI4MzY2MDE1NDY%3D/aa9a248e-101c-4aa6-b109-1cf7403f3b4f  
 Might as well download the APF viewer https://dl.ricohsoftware.com/eid/download/OTI4MzQzODQxNTQ2/aa9a248e-101c-4aa6-b109-1cf7403f3b4f
 If my links have stopped working google "ricoh afp workbench"
 Once installed you will find a printer installed called "Generic infoprint 300dpi"
