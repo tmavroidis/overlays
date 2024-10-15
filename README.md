@@ -11,4 +11,17 @@ Its important to adjust your margins, (I usually make them 0 all around) so it d
 Select ![image](https://github.com/user-attachments/assets/71bd1af6-984f-4307-a893-98e278ffd90a)
 
 In output type select overlay and in image options select full color.
+
+On your IBM i create a library for the overlays, I created a library called overlays. 
+
 Print to a file with the extension .ovl
+Change directory on your PC to where the .ovl resides. CD source
+From the command line ftp to your IBM i and signin 
+Change to binary mode - BIN
+CD to overlays - CD OVERLAYS
+transfer the ovl - put xxxx.ovl overlays/xxxx.
+
+On the ibm i crtovl ovl(overlays/xxxx) file(overlays/xxxx)
+You now have an overlay in libray overlays called xxxx.
+
+You can use the overlay when creating your printer file or use an override when printing.
