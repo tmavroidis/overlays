@@ -7,6 +7,8 @@ If my links have stopped working google "ricoh afp workbench"
 Once installed you will find a printer installed called "Generic infoprint 300dpi"
 Create the overlay in whatever program you like and then choose the infoprint printer.
 Its important to adjust your margins, (I usually make them 0 all around) so it doesn't make the overlay fit by shrinking the print. You cant go right to the margin so be aware.
+
 Select ![image](https://github.com/user-attachments/assets/71bd1af6-984f-4307-a893-98e278ffd90a)
+
 In output type select overlay and in image options select full color.
 Print to a file with the extension .ovl
